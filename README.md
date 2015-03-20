@@ -1,4 +1,5 @@
 #Plum Calculator
+This is just a simple calculator in Android with basic plus and minus operations.
 
 ##Author:
 Mohd Zeeshan Shaikh
